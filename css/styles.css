@@ -168,7 +168,7 @@ ul {
 
 @media screen and (max-width: 1024px){
 
-.mobile-text {
+.text-mobile {
     font-size: 28px;
     line-height: 34px;
     width: 919px;
@@ -181,6 +181,7 @@ ul {
     text-align: center;
     height: 204px;
     margin: 0 auto;
+	width: 1024px;
 }
 
 .block1{
